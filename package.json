@@ -1,0 +1,21 @@
+{
+  "name": "token-registry-sitemap",
+  "version": "1.0.0",
+  "description": "Sitemap for tokens.ooo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aabot": "git+https://github.com/byteball/aabot.git",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.27.0",
+    "fastify-cors": "^6.1.0",
+    "fastify-sensible": "^3.2.0",
+    "sitemap": "^8.0.0"
+  }
+}
