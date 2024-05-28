@@ -1,0 +1,1 @@
+*/20 * * * * cd token-registry-sitemap; node check_daemon.js 1>>~/.config/token-registry-sitemap/check_daemon.log 2>>~/.config/token-registry-sitemap/check_daemon.err
